@@ -1,7 +1,7 @@
 #!/data/data/com.termux/usr/bin/bash
 clear
 toilet --metal "zhicco238"
-xdg-open  https://youtube.com/channel/UCnti7B0HaFE0izlHKwZMn8A
+xdg-open  https://youtube.com/channel/UC0NplCYNyvuhPL5c1H3vq-g
 echo '[+] Author : zhicco238'
 echo '[+] Team : zhicco cyber'
 echo '[+] Github : https://www.github.com/zhicco238'
