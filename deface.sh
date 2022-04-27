@@ -246,7 +246,7 @@ setInterval(flicker, 100);
 <center>
 <br>
 <h1>Your Site Has Been Hacked By $user </h1>
-<div id="matrix" class="auto-style8">SCRIPT BY MR_DARK
+<div id="matrix" class="auto-style8">SCRIPT BY MR.CHAINNER
 pesan : $pesan1</div>
 <br>
 <center>
